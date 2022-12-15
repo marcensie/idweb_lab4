@@ -18,7 +18,7 @@ namespace lab4_idweb.Controllers
                _logger = logger;
           }
 
-          public IActionResult Index eroare ()
+          public IActionResult Index ()
           {
                return View();
           }
